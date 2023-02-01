@@ -1,0 +1,1 @@
+export const API_URL ="https://63d8b873baa0f79e09ad060e.mockapi.io/Org/";
